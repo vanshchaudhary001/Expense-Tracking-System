@@ -1,0 +1,42 @@
+2026-07-19 20:43:17,933 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-07-19 20:44:22,373 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-07-19 20:45:03,319 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-07-19 20:45:03,714 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-07-19 20:45:09,830 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2026-07-19 20:45:11,178 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-07-19 20:45:17,275 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2026-07-19 20:45:57,093 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2026-07-19 20:46:01,074 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-07-19 20:46:01,629 - db_helper - INFO - fetch_expenses_for_date called with 9999-08-15
+2026-07-19 20:46:05,849 - db_helper - INFO - fetch_expense_summary called with start: 2099-01-01 end: 2099-12-31
+2026-07-19 20:46:17,432 - db_helper - INFO - fetch_expenses_for_date called with 2026-07-19
+2026-07-19 20:48:18,809 - db_helper - INFO - fetch_expenses_for_date called with 2026-07-19
+2026-07-19 20:48:24,903 - db_helper - INFO - delete_expenses_for_date called with 2026-07-19
+2026-07-19 20:48:56,411 - db_helper - INFO - fetch_expenses_for_date called with 2026-07-19
+2026-07-19 20:49:02,506 - db_helper - INFO - delete_expenses_for_date called with 2026-07-19
+2026-07-19 20:52:09,599 - db_helper - INFO - fetch_expenses_for_date called with 2026-07-19
+2026-07-19 20:52:15,688 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2026-07-19 20:54:40,738 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2026-07-19 20:54:44,955 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 20:54:51,763 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2026-07-19 20:54:55,926 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 20:54:55,932 - db_helper - INFO - fetch_expenses_for_date called with 9999-08-15
+2026-07-19 20:54:59,985 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 20:54:59,988 - db_helper - INFO - fetch_expense_summary called with start: 2099-01-01 end: 2099-12-31
+2026-07-19 20:55:04,047 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 20:57:13,402 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-07-19 20:57:17,536 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 21:04:47,001 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-07-19 21:04:51,059 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 21:04:53,129 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
+2026-07-19 21:04:57,180 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 21:04:57,184 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 100.0, category: Shopping, notes: a
+2026-07-19 21:05:01,241 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 21:05:01,259 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 200.0, category: Food, notes: b
+2026-07-19 21:05:05,314 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 21:05:05,323 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Shopping, notes: c
+2026-07-19 21:05:09,373 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 21:05:09,383 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 400.0, category: Entertainment, notes: d
+2026-07-19 21:05:13,430 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-07-19 21:05:13,439 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 500.0, category: Food, notes: e
+2026-07-19 21:05:17,491 - db_helper - INFO - MySQL not available, falling back to SQLite: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
